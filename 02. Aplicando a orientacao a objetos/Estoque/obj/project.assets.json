@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\C#\\02. Aplicando a orientacao a objetos\\Estoque\\Estoque.csproj",
+      "projectUniqueName": "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Estoque\\Estoque.csproj",
       "projectName": "Estoque",
-      "projectPath": "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\C#\\02. Aplicando a orientacao a objetos\\Estoque\\Estoque.csproj",
+      "projectPath": "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Estoque\\Estoque.csproj",
       "packagesPath": "C:\\Users\\coruj\\.nuget\\packages\\",
-      "outputPath": "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\C#\\02. Aplicando a orientacao a objetos\\Estoque\\obj\\",
+      "outputPath": "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Estoque\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
