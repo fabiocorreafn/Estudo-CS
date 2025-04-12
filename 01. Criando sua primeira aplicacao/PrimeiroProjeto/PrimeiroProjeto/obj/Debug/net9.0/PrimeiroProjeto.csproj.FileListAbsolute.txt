@@ -1,0 +1,29 @@
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.exe
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.deps.json
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.dll
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.pdb
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.dll
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\refint\PrimeiroProjeto.dll
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.pdb
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\coruj\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\ref\PrimeiroProjeto.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.exe
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.deps.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\refint\PrimeiroProjeto.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\ref\PrimeiroProjeto.dll

@@ -1,0 +1,28 @@
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\bin\Debug\net9.0\02. Lista de linguagens.exe
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\bin\Debug\net9.0\02. Lista de linguagens.deps.json
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\bin\Debug\net9.0\02. Lista de linguagens.runtimeconfig.json
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\bin\Debug\net9.0\02. Lista de linguagens.dll
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\bin\Debug\net9.0\02. Lista de linguagens.pdb
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.AssemblyInfoInputs.cache
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.AssemblyInfo.cs
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.csproj.CoreCompileInputs.cache
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.dll
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\obj\Debug\net9.0\refint\02. Lista de linguagens.dll
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.pdb
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.genruntimeconfig.cache
+C:\Users\coruj\source\repos\Exercicios01\Lista de linguagens\obj\Debug\net9.0\ref\02. Lista de linguagens.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\bin\Debug\net9.0\02. Lista de linguagens.exe
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\bin\Debug\net9.0\02. Lista de linguagens.deps.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\bin\Debug\net9.0\02. Lista de linguagens.runtimeconfig.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\bin\Debug\net9.0\02. Lista de linguagens.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\bin\Debug\net9.0\02. Lista de linguagens.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.AssemblyInfoInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.AssemblyInfo.cs
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.csproj.CoreCompileInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\obj\Debug\net9.0\refint\02. Lista de linguagens.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\obj\Debug\net9.0\02. Lista de linguagens.genruntimeconfig.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Lista de linguagens\obj\Debug\net9.0\ref\02. Lista de linguagens.dll

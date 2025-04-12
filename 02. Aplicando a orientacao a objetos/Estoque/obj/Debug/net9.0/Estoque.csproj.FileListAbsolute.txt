@@ -1,0 +1,14 @@
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\bin\Debug\net9.0\Estoque.exe
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\bin\Debug\net9.0\Estoque.deps.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\bin\Debug\net9.0\Estoque.runtimeconfig.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\bin\Debug\net9.0\Estoque.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\bin\Debug\net9.0\Estoque.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\obj\Debug\net9.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\obj\Debug\net9.0\Estoque.AssemblyInfoInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\obj\Debug\net9.0\Estoque.AssemblyInfo.cs
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\obj\Debug\net9.0\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\obj\Debug\net9.0\Estoque.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\obj\Debug\net9.0\refint\Estoque.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\obj\Debug\net9.0\Estoque.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\obj\Debug\net9.0\Estoque.genruntimeconfig.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Estoque\obj\Debug\net9.0\ref\Estoque.dll

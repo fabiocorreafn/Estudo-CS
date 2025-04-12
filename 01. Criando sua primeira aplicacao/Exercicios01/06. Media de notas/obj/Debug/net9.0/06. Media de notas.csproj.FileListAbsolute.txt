@@ -1,0 +1,28 @@
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\bin\Debug\net9.0\06. Media de notas.exe
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\bin\Debug\net9.0\06. Media de notas.deps.json
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\bin\Debug\net9.0\06. Media de notas.runtimeconfig.json
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\bin\Debug\net9.0\06. Media de notas.dll
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\bin\Debug\net9.0\06. Media de notas.pdb
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.AssemblyInfoInputs.cache
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.AssemblyInfo.cs
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.csproj.CoreCompileInputs.cache
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.dll
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\obj\Debug\net9.0\refint\06. Media de notas.dll
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.pdb
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.genruntimeconfig.cache
+C:\Users\coruj\source\repos\Exercicios01\06. Media de notas\obj\Debug\net9.0\ref\06. Media de notas.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.AssemblyInfoInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.AssemblyInfo.cs
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.csproj.CoreCompileInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\bin\Debug\net9.0\06. Media de notas.exe
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\bin\Debug\net9.0\06. Media de notas.deps.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\bin\Debug\net9.0\06. Media de notas.runtimeconfig.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\bin\Debug\net9.0\06. Media de notas.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\bin\Debug\net9.0\06. Media de notas.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\obj\Debug\net9.0\refint\06. Media de notas.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\obj\Debug\net9.0\06. Media de notas.genruntimeconfig.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\06. Media de notas\obj\Debug\net9.0\ref\06. Media de notas.dll

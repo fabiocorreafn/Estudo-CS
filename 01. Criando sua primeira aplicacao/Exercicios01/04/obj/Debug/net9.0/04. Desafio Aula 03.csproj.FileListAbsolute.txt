@@ -1,0 +1,28 @@
+C:\Users\coruj\source\repos\Exercicios01\04\bin\Debug\net9.0\04. Desafio Aula 03.exe
+C:\Users\coruj\source\repos\Exercicios01\04\bin\Debug\net9.0\04. Desafio Aula 03.deps.json
+C:\Users\coruj\source\repos\Exercicios01\04\bin\Debug\net9.0\04. Desafio Aula 03.runtimeconfig.json
+C:\Users\coruj\source\repos\Exercicios01\04\bin\Debug\net9.0\04. Desafio Aula 03.dll
+C:\Users\coruj\source\repos\Exercicios01\04\bin\Debug\net9.0\04. Desafio Aula 03.pdb
+C:\Users\coruj\source\repos\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\source\repos\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.AssemblyInfoInputs.cache
+C:\Users\coruj\source\repos\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.AssemblyInfo.cs
+C:\Users\coruj\source\repos\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.csproj.CoreCompileInputs.cache
+C:\Users\coruj\source\repos\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.dll
+C:\Users\coruj\source\repos\Exercicios01\04\obj\Debug\net9.0\refint\04. Desafio Aula 03.dll
+C:\Users\coruj\source\repos\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.pdb
+C:\Users\coruj\source\repos\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.genruntimeconfig.cache
+C:\Users\coruj\source\repos\Exercicios01\04\obj\Debug\net9.0\ref\04. Desafio Aula 03.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\bin\Debug\net9.0\04. Desafio Aula 03.exe
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\bin\Debug\net9.0\04. Desafio Aula 03.deps.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\bin\Debug\net9.0\04. Desafio Aula 03.runtimeconfig.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\bin\Debug\net9.0\04. Desafio Aula 03.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\bin\Debug\net9.0\04. Desafio Aula 03.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.AssemblyInfoInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.AssemblyInfo.cs
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.csproj.CoreCompileInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\obj\Debug\net9.0\refint\04. Desafio Aula 03.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\obj\Debug\net9.0\04. Desafio Aula 03.genruntimeconfig.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\04\obj\Debug\net9.0\ref\04. Desafio Aula 03.dll

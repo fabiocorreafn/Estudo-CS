@@ -1,0 +1,28 @@
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\bin\Debug\net9.0\03. Jogo numero.exe
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\bin\Debug\net9.0\03. Jogo numero.deps.json
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\bin\Debug\net9.0\03. Jogo numero.runtimeconfig.json
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\bin\Debug\net9.0\03. Jogo numero.dll
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\bin\Debug\net9.0\03. Jogo numero.pdb
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.AssemblyInfoInputs.cache
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.AssemblyInfo.cs
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.csproj.CoreCompileInputs.cache
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.dll
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\obj\Debug\net9.0\refint\03. Jogo numero.dll
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.pdb
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.genruntimeconfig.cache
+C:\Users\coruj\source\repos\Exercicios01\03. Jogo numero\obj\Debug\net9.0\ref\03. Jogo numero.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\bin\Debug\net9.0\03. Jogo numero.exe
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\bin\Debug\net9.0\03. Jogo numero.deps.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\bin\Debug\net9.0\03. Jogo numero.runtimeconfig.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\bin\Debug\net9.0\03. Jogo numero.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\bin\Debug\net9.0\03. Jogo numero.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.AssemblyInfoInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.AssemblyInfo.cs
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.csproj.CoreCompileInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\obj\Debug\net9.0\refint\03. Jogo numero.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\obj\Debug\net9.0\03. Jogo numero.genruntimeconfig.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\03. Jogo numero\obj\Debug\net9.0\ref\03. Jogo numero.dll

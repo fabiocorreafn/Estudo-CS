@@ -1,0 +1,28 @@
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\bin\Debug\net9.0\01. NotaMedia.exe
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\bin\Debug\net9.0\01. NotaMedia.deps.json
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\bin\Debug\net9.0\01. NotaMedia.runtimeconfig.json
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\bin\Debug\net9.0\01. NotaMedia.dll
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\bin\Debug\net9.0\01. NotaMedia.pdb
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.AssemblyInfoInputs.cache
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.AssemblyInfo.cs
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.csproj.CoreCompileInputs.cache
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.dll
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\obj\Debug\net9.0\refint\01. NotaMedia.dll
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.pdb
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.genruntimeconfig.cache
+C:\Users\coruj\source\repos\Exercicios01\Exercicios01\obj\Debug\net9.0\ref\01. NotaMedia.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\bin\Debug\net9.0\01. NotaMedia.exe
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\bin\Debug\net9.0\01. NotaMedia.deps.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\bin\Debug\net9.0\01. NotaMedia.runtimeconfig.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\bin\Debug\net9.0\01. NotaMedia.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\bin\Debug\net9.0\01. NotaMedia.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.AssemblyInfoInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.AssemblyInfo.cs
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.csproj.CoreCompileInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\obj\Debug\net9.0\refint\01. NotaMedia.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\obj\Debug\net9.0\01. NotaMedia.genruntimeconfig.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\Exercicios01\obj\Debug\net9.0\ref\01. NotaMedia.dll

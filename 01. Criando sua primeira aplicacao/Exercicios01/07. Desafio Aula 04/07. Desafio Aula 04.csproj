@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>_07._Desafio_Aula_04</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<BaseOutputPath>C:\Users\coruj\source\repos\Output\</BaseOutputPath>
+	<BaseIntermediateOutputPath>C:\Users\coruj\source\repos\Temp\</BaseIntermediateOutputPath>
+
+
+  </PropertyGroup>
+
+</Project>

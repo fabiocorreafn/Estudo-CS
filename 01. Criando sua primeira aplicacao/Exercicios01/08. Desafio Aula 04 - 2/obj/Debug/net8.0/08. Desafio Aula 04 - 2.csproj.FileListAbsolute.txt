@@ -1,0 +1,28 @@
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\bin\Debug\net8.0\08. Desafio Aula 04 - 2.exe
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\bin\Debug\net8.0\08. Desafio Aula 04 - 2.deps.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\bin\Debug\net8.0\08. Desafio Aula 04 - 2.runtimeconfig.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\bin\Debug\net8.0\08. Desafio Aula 04 - 2.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\bin\Debug\net8.0\08. Desafio Aula 04 - 2.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.AssemblyInfoInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.AssemblyInfo.cs
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.csproj.CoreCompileInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\refint\08. Desafio Aula 04 - 2.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.genruntimeconfig.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\ref\08. Desafio Aula 04 - 2.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.AssemblyInfoInputs.cache
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.AssemblyInfo.cs
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\08. Desafio Aula 04 - 2\obj\Debug\net8.0\refint\08. Desafio Aula 04 - 2.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.pdb
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.AssemblyInfoInputs.cache
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.AssemblyInfo.cs
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\refint\08. Desafio Aula 04 - 2.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\C#\Exercicios01\08. Desafio Aula 04 - 2\obj\Debug\net8.0\08. Desafio Aula 04 - 2.pdb
