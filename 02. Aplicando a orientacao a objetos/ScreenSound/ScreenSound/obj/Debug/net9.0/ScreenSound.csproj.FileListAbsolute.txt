@@ -12,3 +12,11 @@ C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alur
 C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.pdb
 C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.genruntimeconfig.cache
 C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\ref\ScreenSound.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.AssemblyInfoInputs.cache
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.AssemblyInfo.cs
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.sourcelink.json
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\refint\ScreenSound.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.pdb

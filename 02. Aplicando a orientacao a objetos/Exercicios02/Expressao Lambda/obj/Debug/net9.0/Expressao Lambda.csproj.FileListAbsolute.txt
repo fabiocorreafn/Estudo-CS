@@ -12,3 +12,11 @@ C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alur
 C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\Expressao Lambda.pdb
 C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\Expressao Lambda.genruntimeconfig.cache
 C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\C#\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\ref\Expressao Lambda.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\Expressao Lambda.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\Expressao Lambda.AssemblyInfoInputs.cache
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\Expressao Lambda.AssemblyInfo.cs
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\Expressao Lambda.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\Expressao Lambda.sourcelink.json
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\Expressao Lambda.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\refint\Expressao Lambda.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Meus repositorios\Estudo-CS\02. Aplicando a orientacao a objetos\Exercicios02\Expressao Lambda\obj\Debug\net9.0\Expressao Lambda.pdb

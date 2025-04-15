@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Expressao Lambda\\Expressao Lambda.csproj": {}
+    "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Expressao Lambda\\Expressao Lambda.csproj": {}
   },
   "projects": {
-    "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Expressao Lambda\\Expressao Lambda.csproj": {
+    "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Expressao Lambda\\Expressao Lambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Expressao Lambda\\Expressao Lambda.csproj",
+        "projectUniqueName": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Expressao Lambda\\Expressao Lambda.csproj",
         "projectName": "Expressao Lambda",
-        "projectPath": "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Expressao Lambda\\Expressao Lambda.csproj",
+        "projectPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Expressao Lambda\\Expressao Lambda.csproj",
         "packagesPath": "C:\\Users\\coruj\\.nuget\\packages\\",
-        "outputPath": "G:\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Expressao Lambda\\obj\\",
+        "outputPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Expressao Lambda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
