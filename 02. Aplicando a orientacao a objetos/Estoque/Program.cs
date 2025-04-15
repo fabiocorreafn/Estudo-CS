@@ -27,7 +27,7 @@ produto3.nomeProduto = "Contrabaixo";
 produto3.Preco = 1800;
 produto3.qtdeEstoque = 5;
 
-
+//Adicionada linha de comentário para teste de alteração online e perceber no visual studio
 estoqueLoja1.AdicionarNovoProduto(produto1);
 estoqueLoja1.AdicionarNovoProduto(produto2);
 estoqueLoja1.AdicionarNovoProduto(produto3);
