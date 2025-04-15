@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8076D832-7010-4C79-BDE7-71F727C634A3}|..\\Estoque\\Estoque.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\meus repositorios\\estudo-cs\\02. aplicando a orientacao a objetos\\estoque\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8076D832-7010-4C79-BDE7-71F727C634A3}|..\\Estoque\\Estoque.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\meus repositorios\\estudo-cs\\02. aplicando a orientacao a objetos\\estoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8076D832-7010-4C79-BDE7-71F727C634A3}|..\\Estoque\\Estoque.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\meus repositorios\\estudo-cs\\02. aplicando a orientacao a objetos\\estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8076D832-7010-4C79-BDE7-71F727C634A3}|..\\Estoque\\Estoque.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\meus repositorios\\estudo-cs\\02. aplicando a orientacao a objetos\\estoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8076D832-7010-4C79-BDE7-71F727C634A3}|..\\Estoque\\Estoque.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\meus repositorios\\estudo-cs\\02. aplicando a orientacao a objetos\\estoque\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,27 +24,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Estoque.cs",
-              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Estoque\\Estoque.cs",
-              "RelativeDocumentMoniker": "..\\Estoque\\Estoque.cs",
-              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Estoque\\Estoque.cs",
-              "RelativeToolTip": "..\\Estoque\\Estoque.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:22:22.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Estoque\\Produto.cs",
               "RelativeDocumentMoniker": "..\\Estoque\\Produto.cs",
               "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Estoque\\Produto.cs",
               "RelativeToolTip": "..\\Estoque\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:22:17.129Z",
+              "WhenOpened": "2025-04-15T18:18:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Estoque\\Estoque.cs",
+              "RelativeDocumentMoniker": "..\\Estoque\\Estoque.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Estoque\\Estoque.cs",
+              "RelativeToolTip": "..\\Estoque\\Estoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:18:43.198Z",
               "EditorCaption": ""
             },
             {
@@ -55,9 +55,9 @@
               "RelativeDocumentMoniker": "..\\Estoque\\Program.cs",
               "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Estoque\\Program.cs",
               "RelativeToolTip": "..\\Estoque\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:05:46.511Z",
+              "WhenOpened": "2025-04-15T13:48:55.08Z",
               "EditorCaption": ""
             }
           ]

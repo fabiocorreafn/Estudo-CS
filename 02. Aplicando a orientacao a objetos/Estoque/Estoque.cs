@@ -13,10 +13,10 @@
     public void ExibirEstoque()
     {
         Console.WriteLine("Lista de produtos em estoque:\n");
-        Console.WriteLine("{0, -6}{1, 12}{2, 15}{3, 9}", "CÓD.", "PRODUTO", "QUANTIDADE", "LOJA");
+        Console.WriteLine("{0, -6}{1, 12}{2, 15}{3, 18}{4, 12}", "CÓD.", "PRODUTO", "QUANTIDADE", "LOJA", "PREÇO");
         foreach (var produto in produtos)
         {
-            Console.WriteLine("{0, -6}{1, 12}{2, 15}{3,9}", produto.codigoProduto, produto.nomeProduto, produto.qtdeEstoque, produto.Preco);
+            Console.WriteLine("{0, -6}{1, 12}{2, 15}{3, 18}{4, 12}", produto.CodigoProduto, produto.NomeProduto, produto.QtdeEstoque, nomeLoja, produto.Preco);
         }
     }
 }

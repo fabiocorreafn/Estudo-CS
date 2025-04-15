@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\C#\\01. Criando sua primeira aplicacao\\Exercicios01\\Exercicios01\\01. NotaMedia.csproj",
+      "projectUniqueName": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Exercicios01\\01. NotaMedia.csproj",
       "projectName": "01. NotaMedia",
-      "projectPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\C#\\01. Criando sua primeira aplicacao\\Exercicios01\\Exercicios01\\01. NotaMedia.csproj",
+      "projectPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Exercicios01\\01. NotaMedia.csproj",
       "packagesPath": "C:\\Users\\coruj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\C#\\01. Criando sua primeira aplicacao\\Exercicios01\\Exercicios01\\obj\\",
+      "outputPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Exercicios01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

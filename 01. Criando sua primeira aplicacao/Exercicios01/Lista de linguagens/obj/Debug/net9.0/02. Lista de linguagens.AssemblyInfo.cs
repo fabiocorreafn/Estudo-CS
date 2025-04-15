@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Lista de linguagens")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59b4b57dce10552fbcd31dde1b353cfefd0090fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Lista de linguagens")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Lista de linguagens")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

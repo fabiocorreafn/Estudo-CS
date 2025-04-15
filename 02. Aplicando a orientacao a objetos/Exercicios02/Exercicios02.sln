@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound", "..\ScreenSou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque", "..\Estoque\Estoque.csproj", "{8076D832-7010-4C79-BDE7-71F727C634A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Desafio Aula 04", "..\..\01. Criando sua primeira aplicacao\Exercicios01\07. Desafio Aula 04\07. Desafio Aula 04.csproj", "{0A7906EA-54BE-0F4A-8ADE-7BCC22A1F87F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,8 +35,15 @@ Global
 		{8076D832-7010-4C79-BDE7-71F727C634A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8076D832-7010-4C79-BDE7-71F727C634A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8076D832-7010-4C79-BDE7-71F727C634A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7906EA-54BE-0F4A-8ADE-7BCC22A1F87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7906EA-54BE-0F4A-8ADE-7BCC22A1F87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7906EA-54BE-0F4A-8ADE-7BCC22A1F87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7906EA-54BE-0F4A-8ADE-7BCC22A1F87F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3849D82B-96A6-4ED1-8957-F39AEE53AF3F}
 	EndGlobalSection
 EndGlobal
