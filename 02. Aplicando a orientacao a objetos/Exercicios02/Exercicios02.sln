@@ -9,9 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressao Lambda", "Express
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound", "..\ScreenSound\ScreenSound\ScreenSound.csproj", "{8139F233-A340-4156-A131-06EDF73D1ACA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque", "..\Estoque\Estoque.csproj", "{8076D832-7010-4C79-BDE7-71F727C634A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 03 - Estoque", "..\Estoque\Aula 03 - Estoque.csproj", "{8076D832-7010-4C79-BDE7-71F727C634A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Desafio Aula 04", "..\..\01. Criando sua primeira aplicacao\Exercicios01\07. Desafio Aula 04\07. Desafio Aula 04.csproj", "{0A7906EA-54BE-0F4A-8ADE-7BCC22A1F87F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 03 - Conta Bancaria", "Aula 03\Aula 03 - Conta Bancaria.csproj", "{867E8766-B34E-42A9-8D10-F2555529332B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 03 - Escola", "..\Aula 03 - Escola\Aula 03 - Escola.csproj", "{F3474471-FE3D-48D3-9FAA-AC7CB0475980}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +37,14 @@ Global
 		{8076D832-7010-4C79-BDE7-71F727C634A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8076D832-7010-4C79-BDE7-71F727C634A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8076D832-7010-4C79-BDE7-71F727C634A3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0A7906EA-54BE-0F4A-8ADE-7BCC22A1F87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A7906EA-54BE-0F4A-8ADE-7BCC22A1F87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A7906EA-54BE-0F4A-8ADE-7BCC22A1F87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0A7906EA-54BE-0F4A-8ADE-7BCC22A1F87F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867E8766-B34E-42A9-8D10-F2555529332B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867E8766-B34E-42A9-8D10-F2555529332B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867E8766-B34E-42A9-8D10-F2555529332B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867E8766-B34E-42A9-8D10-F2555529332B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3474471-FE3D-48D3-9FAA-AC7CB0475980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3474471-FE3D-48D3-9FAA-AC7CB0475980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3474471-FE3D-48D3-9FAA-AC7CB0475980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3474471-FE3D-48D3-9FAA-AC7CB0475980}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Lista de linguagens\\02. Lista de linguagens.csproj": {}
+    "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Lista de linguagens\\02. Lista de linguagens.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Lista de linguagens\\02. Lista de linguagens.csproj": {
+    "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Lista de linguagens\\02. Lista de linguagens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Lista de linguagens\\02. Lista de linguagens.csproj",
+        "projectUniqueName": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Lista de linguagens\\02. Lista de linguagens.csproj",
         "projectName": "02. Lista de linguagens",
-        "projectPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Lista de linguagens\\02. Lista de linguagens.csproj",
+        "projectPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Lista de linguagens\\02. Lista de linguagens.csproj",
         "packagesPath": "C:\\Users\\coruj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Lista de linguagens\\obj\\",
+        "outputPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\Lista de linguagens\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

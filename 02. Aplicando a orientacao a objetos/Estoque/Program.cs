@@ -60,44 +60,44 @@ void AdicionarProduto()
     estoqueLoja1.AdicionarNovoProduto(produto);
 
     Menu();
-
-    return;
 }
 
 void RemoverProduto()
 {
     Cabecalho();
     Console.WriteLine("__Lista de Produtos__\n");
+    if (estoqueLoja1.produtos.Count() != 0)
+    {
+        estoqueLoja1.ExibirEstoque();
+        Console.Write("\n\nDigite o código do produto que deseja EXCLUIR: ");
+        int codigoParaRemover = int.Parse(Console.ReadLine()!);
+        estoqueLoja1.RemoverProduto(codigoParaRemover);
+        //Aqui estou pegando o código digitado "codigoParaRemover" e enviando ele para o método "RemoverProduto"
+        //dentro de "Estoque.cs". Dentro do método tem uma forma de buscar o produto de acordo com o código digitado.
+        //Antes de excluir o produto, será enviada uma mensagem de confirmação de exclusão, identificando o produto, para o usuário confirmar.
+        Menu();
+    }
+    else
+    {
+        Console.WriteLine("\nNão é possível excluir produtos porque não existem produtos cadastrados!");
+        Console.Write("Pressione qualquer tecla para voltar ao Menu...");
+        Console.ReadKey();
+        Menu();
+    }
 
-    estoqueLoja1.ExibirEstoque();
-
-    Console.Write("\n\nDigite o código do produto que deseja EXCLUIR: ");
-    int codigoParaRemover = int.Parse(Console.ReadLine()!);
-
-    //Aqui eu preciso encontrar um jeito de pegar o código digitado pelo usuário e buscar
-    //no estoque o produto que tem esse código para colocar ele no texto de confirmação de exclusão.
-    //Da maneira que está {estoqueLoja1.produtos[remover].NomeProduto} eu estou usando o índice ao invés do código.
-    //Todo o código responsável por buscar o produto de acordo com o código digitad, confirmar a exclusão e excluir]
+    //Todo o código responsável por buscar o produto de acordo com o código digitado, confirmar a exclusão e excluir]
     //foi para dentro do Estoque.cs, que na realidade é onde deveria estar mesmo, desde o início, e eu estava fazendo ele
-    //aqui dentro do Program.cs equivocadamente.
-
-    estoqueLoja1.RemoverProduto(codigoParaRemover);
-
-    Menu();
-   
+    //aqui dentro do Program.cs equivocadamente.   
 }
 
 void ExibirEstoque()
 {
     Cabecalho();
     estoqueLoja1.ExibirEstoque();
-
     Console.Write("\n\nPressione qualquer tecla para voltar ao Menu...");
     Console.ReadKey();
     
     Menu();
-
-    return;
 }
 
 Menu();

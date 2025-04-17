@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System.ComponentModel.Design;
+using System.Linq;
 using System.Runtime.CompilerServices;
 public class Estoque
 {
@@ -21,9 +22,10 @@ public class Estoque
     public void RemoverProduto(int codigoParaRemover)
     {
         /* Usando o FOR:
-        //Este for vai varrer a lista "produtos" usando a iteração do índice "i" e vai comparar o código digitado pelo usuário com o campo CodigoProduto.
-        //O índice vai ser usado apenas para ir iterando, passando pelo lista um a um. O índice não serã usado como referência ao determinado item da lista
+        //Este FOR vai varrer a lista "produtos" usando a iteração do índice "i" e vai comparar o código digitado pelo usuário com o campo CodigoProduto.
+        //O índice vai ser usado apenas para ir iterando, passando pelo lista um a um. O índice não será usado como referência ao determinado item da lista
         //porque o código do produto não tem relação com o índice.
+        */
 
         for (int i = 0; i < produtos.Count; i++)
         {
@@ -34,18 +36,27 @@ public class Estoque
                 if (confirmaExclusao.Key == ConsoleKey.S)
                 {
                     {
-                        Console.WriteLine("Achei o produto para excluir! (TESTE)");
-                        //estoqueLoja1.RemoverProduto();
+                        Console.WriteLine("\n\nAchei o produto para excluir! Aguarde um instante...");
+                        Thread.Sleep(2000);
+                        produtos.Remove(produtos[i]);
+                        Console.WriteLine("Produto excluído com sucesso!");
                         Console.Write("\nPressione qualquer tecla para voltar ao Menu...");
                         Console.ReadKey();
                     }
                 }
                 else
                 {
-                    Console.WriteLine("Exclusão não realizada. Produto não encontrado.");
+                    Console.WriteLine("\n\nExclusão não realizada. Operação cancelada pelo usuário.");
                     Console.Write("\nPressione qualquer tecla para voltar ao Menu...");
                     Console.ReadKey();
                 }
+            }
+            else
+            {
+                Console.WriteLine("\n\nProduto não encontrado.");
+                Console.Write("\nPressione qualquer tecla para voltar ao Menu...");
+                Thread.Sleep(3000);
+                Console.ReadKey();
             }
         }
 
@@ -54,7 +65,7 @@ public class Estoque
         //if (confirmaExclusao == 's' || confirmaExclusao == 'S') {}
         //neste caso o usuário deve digitar a resposta e teclar ENTER. No caso que utilizei no programa abaixo, bas apenas digitar a letra da resposta (S/N),
         //seja maiúscula ou minúscula, sem precisar dar ENTER e o programa já lê.
-        */
+        
 
         /* Usando LINQ:
         //LINQ significa Language Integrated Query (Consulta Integrada à Linguagem).
@@ -81,8 +92,7 @@ public class Estoque
 
         /* Usando o FIND() COM lambda
         Usando com lambda, o "private bool" deve ficar fora do método "RemoverProduto"
-        */
-
+        
         //Produto produto = produtos.Find(p => ProdutoTemCodigo(p, codigoParaRemover));
         //if (produto != null)
         //{
@@ -94,6 +104,8 @@ public class Estoque
         //{
         //    Console.WriteLine("Produto não encontrado");
         //}
+        */
+
 
         /* Usando o FIND() SEM lambda
         //Find() é um método da classe List que serve para buscar o primeiro elemento que satisfaça uma condição.
@@ -108,7 +120,6 @@ public class Estoque
         //Agora vem o desafio: como passar o "codigoBuscado" para essa função?
         //A função ProdutoTemCodigo só aceita o parâmetro Produto, mas a gente precisa comparar com o codigoParaRemover.
         //A solução é criar a função dentro do método, usando closure (variável externa).
-        */
 
         bool Condicao(Produto p)
         {
@@ -142,12 +153,8 @@ public class Estoque
             Console.Write("\nPressione qualquer tecla para voltar ao Menu...");
             Console.ReadKey();
         }
+        */
     }
-
-
-
-
-
 
     public void ExibirEstoque()
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05. Numeros pares com o FOR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24b61d31c60e66ca96d5e01305d67f340d7a533c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c135933b87205379479a3700801fcf6c14fb360d")]
 [assembly: System.Reflection.AssemblyProductAttribute("05. Numeros pares com o FOR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05. Numeros pares com o FOR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Aula 03 - Estoque/1.0.0": {
+        "runtime": {
+          "Aula 03 - Estoque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula 03 - Estoque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

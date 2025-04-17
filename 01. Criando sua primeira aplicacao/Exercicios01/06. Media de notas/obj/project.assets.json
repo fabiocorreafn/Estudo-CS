@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\06. Media de notas\\06. Media de notas.csproj",
+      "projectUniqueName": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\06. Media de notas\\06. Media de notas.csproj",
       "projectName": "06. Media de notas",
-      "projectPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\06. Media de notas\\06. Media de notas.csproj",
+      "projectPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\06. Media de notas\\06. Media de notas.csproj",
       "packagesPath": "C:\\Users\\coruj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Meus repositorios\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\06. Media de notas\\obj\\",
+      "outputPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\01. Criando sua primeira aplicacao\\Exercicios01\\06. Media de notas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
