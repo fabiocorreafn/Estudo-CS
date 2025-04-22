@@ -1,38 +1,22 @@
 ﻿using System;
+using System.ComponentModel.Design;
+using System.Threading.Channels;
 
 class Professor
 {
     public string Nome { get; set; }
+    public List<Disciplina> disciplinas = new List<Disciplina>();
 
-    public List<Disciplina> disciplinas { get; set; }
+    public Professor(string nome)
+    {
+        // Este é o construtor que aceita 1 argumento (o nome)
+        // Determina um ou mais parâmetros que serão passados pelo programa principal, no caso "nome",
+        // e dentro do Construtor, esse "nome" passado está sendo atribuído ao campo "Nome" da classe Professor.
+        Nome = nome;
+    }
 
-   //public void AtribuirDisciplinas(List<string> nomesDosProfessores, List<string> nomesDasDisciplinas)
-   //{
-   //     Console.Clear();
-   //     Console.WriteLine("- ATRIBUIÇÃO DE DISCIPLINAS AOS PROFESSORES -");
-   //     Console.WriteLine("\nDISCIPLINAS: \n");
-   //     Console.WriteLine(new string('-', 45), "\n");
-   //     foreach (var i in nomesDosProfessores)
-   //     {
-   //         int k = 1;
-   //         foreach (var j in nomesDasDisciplinas)
-   //         {
-   //             Console.WriteLine($"{k}. {j};");
-   //             k++;
-   //         }
-   //         Console.WriteLine($"Professor(a): {i} ");
-   //         Console.WriteLine($"Disciplinas: ");
-   //         Console.WriteLine();
-   //         Console.Write("Digite o código da disciplina para atribuir ao professor\n Quando terminar digite 9: ");
-   //         int codigo = int.Parse(Console.ReadLine()!);
-   //         if (codigo == 9)
-   //         {
-                
-   //         }
-   //         else
-   //         {
-
-   //         }
-   //     }
-   //}
+    public void AtribuirDisciplinas(Disciplina disciplina)
+    {
+        disciplinas.Add(disciplina);
+    }
 }

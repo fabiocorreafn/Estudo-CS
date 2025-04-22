@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3474471-FE3D-48D3-9FAA-AC7CB0475980}|..\\Aula 03 - Escola\\Aula 03 - Escola.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\aula 03 - escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FD73F48-67B5-415E-9587-14FF5A3C67D0}|Aula 03 - Restaurante\\Aula 03 - Restaurante.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\exercicios02\\aula 03 - restaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD73F48-67B5-415E-9587-14FF5A3C67D0}|Aula 03 - Restaurante\\Aula 03 - Restaurante.csproj|solutionrelative:aula 03 - restaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3474471-FE3D-48D3-9FAA-AC7CB0475980}|..\\Aula 03 - Escola\\Aula 03 - Escola.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\aula 03 - escola\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FD73F48-67B5-415E-9587-14FF5A3C67D0}|Aula 03 - Restaurante\\Aula 03 - Restaurante.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\exercicios02\\aula 03 - restaurante\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD73F48-67B5-415E-9587-14FF5A3C67D0}|Aula 03 - Restaurante\\Aula 03 - Restaurante.csproj|solutionrelative:aula 03 - restaurante\\cardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3474471-FE3D-48D3-9FAA-AC7CB0475980}|..\\Aula 03 - Escola\\Aula 03 - Escola.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\aula 03 - escola\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FD73F48-67B5-415E-9587-14FF5A3C67D0}|Aula 03 - Restaurante\\Aula 03 - Restaurante.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\exercicios02\\aula 03 - restaurante\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD73F48-67B5-415E-9587-14FF5A3C67D0}|Aula 03 - Restaurante\\Aula 03 - Restaurante.csproj|solutionrelative:aula 03 - restaurante\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3474471-FE3D-48D3-9FAA-AC7CB0475980}|..\\Aula 03 - Escola\\Aula 03 - Escola.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\aula 03 - escola\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FD73F48-67B5-415E-9587-14FF5A3C67D0}|Aula 03 - Restaurante\\Aula 03 - Restaurante.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\exercicios02\\aula 03 - restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD73F48-67B5-415E-9587-14FF5A3C67D0}|Aula 03 - Restaurante\\Aula 03 - Restaurante.csproj|solutionrelative:aula 03 - restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Disciplina.cs",
-              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Aula 03 - Escola\\Disciplina.cs",
-              "RelativeDocumentMoniker": "..\\Aula 03 - Escola\\Disciplina.cs",
-              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Aula 03 - Escola\\Disciplina.cs",
-              "RelativeToolTip": "..\\Aula 03 - Escola\\Disciplina.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T05:55:12.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Professor.cs",
-              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Aula 03 - Escola\\Professor.cs",
-              "RelativeDocumentMoniker": "..\\Aula 03 - Escola\\Professor.cs",
-              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Aula 03 - Escola\\Professor.cs",
-              "RelativeToolTip": "..\\Aula 03 - Escola\\Professor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Aula 03 - Restaurante\\Mesa.cs",
+              "RelativeDocumentMoniker": "Aula 03 - Restaurante\\Mesa.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Aula 03 - Restaurante\\Mesa.cs",
+              "RelativeToolTip": "Aula 03 - Restaurante\\Mesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T05:55:01.717Z",
+              "WhenOpened": "2025-04-22T20:25:55.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Aula 03 - Escola\\Aluno.cs",
-              "RelativeDocumentMoniker": "..\\Aula 03 - Escola\\Aluno.cs",
-              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Aula 03 - Escola\\Aluno.cs",
-              "RelativeToolTip": "..\\Aula 03 - Escola\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Cardapio.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Aula 03 - Restaurante\\Cardapio.cs",
+              "RelativeDocumentMoniker": "Aula 03 - Restaurante\\Cardapio.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Aula 03 - Restaurante\\Cardapio.cs",
+              "RelativeToolTip": "Aula 03 - Restaurante\\Cardapio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T05:50:12.742Z",
+              "WhenOpened": "2025-04-22T20:22:05.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Aula 03 - Escola\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Aula 03 - Escola\\Program.cs",
-              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Aula 03 - Escola\\Program.cs",
-              "RelativeToolTip": "..\\Aula 03 - Escola\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwHQAAABfAAAAAAAAAA==",
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Aula 03 - Restaurante\\Restaurante.cs",
+              "RelativeDocumentMoniker": "Aula 03 - Restaurante\\Restaurante.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Aula 03 - Restaurante\\Restaurante.cs",
+              "RelativeToolTip": "Aula 03 - Restaurante\\Restaurante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T05:42:49.737Z",
+              "WhenOpened": "2025-04-22T20:18:57.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Aula 03 - Restaurante\\Program.cs",
+              "RelativeDocumentMoniker": "Aula 03 - Restaurante\\Program.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\Aula 03 - Restaurante\\Program.cs",
+              "RelativeToolTip": "Aula 03 - Restaurante\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:17:43.368Z",
               "EditorCaption": ""
             }
           ]

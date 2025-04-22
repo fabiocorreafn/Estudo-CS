@@ -1,0 +1,15 @@
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\obj\Debug\net9.0\Aula 03 - Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\obj\Debug\net9.0\Aula 03 - Escola.AssemblyInfoInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\obj\Debug\net9.0\Aula 03 - Escola.AssemblyInfo.cs
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\obj\Debug\net9.0\Aula 03 - Escola.csproj.CoreCompileInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\obj\Debug\net9.0\Aula 03 - Escola.sourcelink.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\bin\Debug\net9.0\Aula 03 - Escola.exe
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\bin\Debug\net9.0\Aula 03 - Escola.deps.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\bin\Debug\net9.0\Aula 03 - Escola.runtimeconfig.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\bin\Debug\net9.0\Aula 03 - Escola.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\bin\Debug\net9.0\Aula 03 - Escola.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\obj\Debug\net9.0\Aula 03 - Escola.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\obj\Debug\net9.0\refint\Aula 03 - Escola.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\obj\Debug\net9.0\Aula 03 - Escola.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\obj\Debug\net9.0\Aula 03 - Escola.genruntimeconfig.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\02. Aplicando a orientacao a objetos\Aula 03 - Escola\obj\Debug\net9.0\ref\Aula 03 - Escola.dll

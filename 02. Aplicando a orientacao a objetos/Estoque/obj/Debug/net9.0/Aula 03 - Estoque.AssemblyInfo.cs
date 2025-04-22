@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula 03 - Estoque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c135933b87205379479a3700801fcf6c14fb360d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0766c2da3307e7d3d99ec49dd25e0c6befd7899")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula 03 - Estoque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula 03 - Estoque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
