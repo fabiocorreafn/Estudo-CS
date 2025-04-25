@@ -1,5 +1,5 @@
 ﻿class Mesa
 {
-    public List<int> numeroMesa { get; set; } = new();
-    public Dictionary<int, string> pedido { get; set; } = new();
+    public int NumeroMesa { get; set; }
+    public List<Pedido> Pedido { get; set; } = new List<Pedido>();
 }

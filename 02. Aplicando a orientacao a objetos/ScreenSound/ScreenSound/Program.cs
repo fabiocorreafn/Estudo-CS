@@ -4,10 +4,14 @@ anEveningWithSilkSonic.Nome = "An Evening With Silk Sonic";
 Musica musica1 = new Musica();
 musica1.Nome = "Silk Sonic Intro";
 musica1.Duracao = 63;
+musica1.Genero = new Genero();
+musica1.Genero.Nome = "Pop";
 
 Musica musica2 = new Musica();
 musica2.Nome = "Leave The Door Open";
 musica2.Duracao = 242;
+musica2.Genero = new Genero();
+musica2.Genero.Nome = "Balada";
 
 anEveningWithSilkSonic.AdicionarMusica(musica1);
 anEveningWithSilkSonic.AdicionarMusica(musica2);

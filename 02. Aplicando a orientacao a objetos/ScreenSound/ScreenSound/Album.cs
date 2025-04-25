@@ -15,6 +15,8 @@
         foreach (var musica in musicas)
         {
             Console.WriteLine($"Música: {musica.Nome}");
+            Console.WriteLine($"Gênero: {musica.Genero.Nome}");
+            Console.WriteLine($"Duração: {musica.Duracao}s\n");
         }
         Console.WriteLine($"\nPara ouvir este álbum inteiro você precisa de {DuracaoTotal} segundos.");
         

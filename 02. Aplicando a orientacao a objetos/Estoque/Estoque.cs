@@ -60,18 +60,18 @@ public class Estoque
             }
         }
 
-        //Esta é uma outra maneira de fazer pergunta de confirmação de S/N:
-        //char confirmaExclusao = char.Parse(Console.ReadLine()!);
-        //if (confirmaExclusao == 's' || confirmaExclusao == 'S') {}
-        //neste caso o usuário deve digitar a resposta e teclar ENTER. No caso que utilizei no programa abaixo, bas apenas digitar a letra da resposta (S/N),
-        //seja maiúscula ou minúscula, sem precisar dar ENTER e o programa já lê.
-        
+        /* Esta é uma outra maneira de fazer pergunta de confirmação de S/N:
+         * char confirmaExclusao = char.Parse(Console.ReadLine()!);
+         * if (confirmaExclusao == 's' || confirmaExclusao == 'S') {}
+         * neste caso o usuário deve digitar a resposta e teclar ENTER. No caso que utilizei no programa abaixo, basta apenas digitar a letra da resposta (S/N),
+         * seja maiúscula ou minúscula, sem precisar dar ENTER e o programa já lê.
+        */
 
         /* Usando LINQ:
-        //LINQ significa Language Integrated Query (Consulta Integrada à Linguagem).
-        //O LINQ permite consultar dados de coleções (listas, arrays, dicionários etc.) de uma forma mais descritiva e parecida com SQL, usando palavras como
-        //where, select, first, orderby... Usar a LINQ deixa o código mais legível, usa menos linhas para fazer buscas ou filtros e é ideal para quando se trabalha
-        //com coleções de objetos, como neste caso onde usamos List<Produto>.
+         * LINQ significa Language Integrated Query (Consulta Integrada à Linguagem).
+         * O LINQ permite consultar dados de coleções (listas, arrays, dicionários etc.) de uma forma mais descritiva e parecida com SQL, usando palavras como
+         * where, select, first, orderby... Usar a LINQ deixa o código mais legível, usa menos linhas para fazer buscas ou filtros e é ideal para quando se trabalha
+         * com coleções de objetos, como neste caso onde usamos List<Produto>.
 
         var consulta = from p in produtos
                        where p.CodigoProduto == codigoParaRemover
@@ -91,32 +91,33 @@ public class Estoque
         */
 
         /* Usando o FIND() COM lambda
-        Usando com lambda, o "private bool" deve ficar fora do método "RemoverProduto"
+         * Usando com lambda, o "private bool" deve ficar fora do método "RemoverProduto"
         
-        //Produto produto = produtos.Find(p => ProdutoTemCodigo(p, codigoParaRemover));
-        //if (produto != null)
-        //{
-        //    //produtos.Remove(produtoEncontrado);
-        //    Console.WriteLine("Achei o produto para excluir! (TESTE)");
-        //    Console.WriteLine("Produto removido com sucesso");
-        //}
-        //else
-        //{
-        //    Console.WriteLine("Produto não encontrado");
-        //}
+        Produto produto = produtos.Find(p => ProdutoTemCodigo(p, codigoParaRemover));
+        if (produto != null)
+        {
+            //produtos.Remove(produtoEncontrado);
+            Console.WriteLine("Achei o produto para excluir! (TESTE)");
+            Console.WriteLine("Produto removido com sucesso");
+        }
+        else
+        {
+            Console.WriteLine("Produto não encontrado");
+        }
         */
 
 
         /* Usando o FIND() SEM lambda
-        //Find() é um método da classe List que serve para buscar o primeiro elemento que satisfaça uma condição.
-        //Ou seja, ele percorre a lista até encontrar o primeiro item que atenda ao critério que você definir e retorna este item.
-        //Se não encontrar nada, retorna null.
-        //Primeiro criamos a função de condição separadamente
-        //
-        //private bool ProdutoTemCodigo(Produto p)
-        //{
-        //    return p.CodigoProduto == codigoBuscado;
-        //}
+         * Find() é um método da classe List que serve para buscar o primeiro elemento que satisfaça uma condição.
+         * Ou seja, ele percorre a lista até encontrar o primeiro item que atenda ao critério que você definir e retorna este item.
+         * Se não encontrar nada, retorna null.
+         * Primeiro criamos a função de condição separadamente
+         * 
+        
+        private bool ProdutoTemCodigo(Produto p)
+        {
+            return p.CodigoProduto == codigoBuscado;
+        }
         //Agora vem o desafio: como passar o "codigoBuscado" para essa função?
         //A função ProdutoTemCodigo só aceita o parâmetro Produto, mas a gente precisa comparar com o codigoParaRemover.
         //A solução é criar a função dentro do método, usando closure (variável externa).
