@@ -1,12 +1,100 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\Exercicios02\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8139F233-A340-4156-A131-06EDF73D1ACA}|..\\ScreenSound\\ScreenSound\\ScreenSound.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\screensound\\screensound\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8139F233-A340-4156-A131-06EDF73D1ACA}|..\\ScreenSound\\ScreenSound\\ScreenSound.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8139F233-A340-4156-A131-06EDF73D1ACA}|..\\ScreenSound\\ScreenSound\\ScreenSound.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\screensound\\screensound\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8139F233-A340-4156-A131-06EDF73D1ACA}|..\\ScreenSound\\ScreenSound\\ScreenSound.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\screensound\\screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8139F233-A340-4156-A131-06EDF73D1ACA}|..\\ScreenSound\\ScreenSound\\ScreenSound.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\02. aplicando a orientacao a objetos\\screensound\\screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\ScreenSound\\ScreenSound\\Genero.cs",
+              "RelativeDocumentMoniker": "..\\ScreenSound\\ScreenSound\\Genero.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\ScreenSound\\ScreenSound\\Genero.cs",
+              "RelativeToolTip": "..\\ScreenSound\\ScreenSound\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:53:39.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\ScreenSound\\ScreenSound\\Album.cs",
+              "RelativeDocumentMoniker": "..\\ScreenSound\\ScreenSound\\Album.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\ScreenSound\\ScreenSound\\Album.cs",
+              "RelativeToolTip": "..\\ScreenSound\\ScreenSound\\Album.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:49:36.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\ScreenSound\\ScreenSound\\Musica.cs",
+              "RelativeDocumentMoniker": "..\\ScreenSound\\ScreenSound\\Musica.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\ScreenSound\\ScreenSound\\Musica.cs",
+              "RelativeToolTip": "..\\ScreenSound\\ScreenSound\\Musica.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:23:14.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\ScreenSound\\ScreenSound\\Playlist.cs",
+              "RelativeDocumentMoniker": "..\\ScreenSound\\ScreenSound\\Playlist.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\ScreenSound\\ScreenSound\\Playlist.cs",
+              "RelativeToolTip": "..\\ScreenSound\\ScreenSound\\Playlist.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:06:02.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\ScreenSound\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ScreenSound\\ScreenSound\\Program.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\02. Aplicando a orientacao a objetos\\ScreenSound\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "..\\ScreenSound\\ScreenSound\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:00:30.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

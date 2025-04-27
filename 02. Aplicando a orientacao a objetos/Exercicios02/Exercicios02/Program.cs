@@ -121,3 +121,22 @@ conta1.limite = 10000;
 Console.WriteLine(conta1.ExibirInformacoesDaConta());
 
 
+// DESAFIO AULA 04 - CATÁLOGO DE JOGOS
+Jogo jogo1 = new("GTA VI")
+{
+    AnoDeLancamento = 2025,
+    Preco = 350,
+};
+
+Jogo jogo2 = new("Spider-man 2")
+{
+    AnoDeLancamento = 2020,
+    Preco = 250,
+};
+
+CatalogoJogos catalogoAcao = new("Ação");
+catalogoAcao.AdicionarJogo(jogo1);
+
+CatalogoJogos catalogoSuperHerois = new("Super-Heróis");
+catalogoSuperHerois.AdicionarJogo(jogo2);
+catalogoSuperHerois.RemoverJogo(jogo2);
