@@ -6,6 +6,7 @@
     }
     public string Nome { get; set; }
     private List<Musica> ListaDeMusicas { get; set; } = new List<Musica>();
+    
     public bool Visibilidade;
     /* A ideia é que se a Playlist tiver Visibilidade = true ela pode ser visualizada por qualquer pessoas,
      * mas se Visibilidade = false, apenas o dono pode visualizar. True significa "Pública" e False significa "Privada"
@@ -25,39 +26,45 @@
 
     public void ExibirPlaylist()
     {
-        string visibilidade, colaboracao;
+        if (ListaDeMusicas.Count != 0)
+        {
+            string visibilidade, colaboracao;
 
-        if (Visibilidade)
-        {
-            visibilidade = "Pública";
-        }
-        else
-        {
-            visibilidade = "Privada";
-        }
-        
-        if (Colaboracao)
-        {
-            colaboracao = "Sim";
-        }
-        else
-        {
-            colaboracao = "Não";
-        }
-
-        if (Visibilidade)
-        {
-            Console.WriteLine($"\nMúsicas da Playlist: {Nome}\n");
-            foreach (Musica musica in ListaDeMusicas)
+            if (Visibilidade)
             {
-                Console.WriteLine($"- {musica.Nome}");
+                visibilidade = "Pública";
             }
-            Console.WriteLine($"\nVisibilidade da Playlist: {visibilidade.ToUpper()}");
-            Console.WriteLine($"Playlist Colaborativa: {colaboracao.ToUpper()}");
-        }
-        else
+            else
+            {
+                visibilidade = "Privada";
+            }
+        
+            if (Colaboracao)
+            {
+                colaboracao = "Sim";
+            }
+            else
+            {
+                colaboracao = "Não";
+            }
+
+            if (Visibilidade)
+            {
+                Console.WriteLine($"\nMúsicas da Playlist: {Nome}\n");
+                foreach (Musica musica in ListaDeMusicas)
+                {
+                    Console.WriteLine($"- {musica.Nome}");
+                }
+                Console.WriteLine($"\nVisibilidade da Playlist: {visibilidade.ToUpper()}");
+                Console.WriteLine($"Playlist Colaborativa: {colaboracao.ToUpper()}");
+            }
+            else
+            {
+                Console.WriteLine($"Playlist {visibilidade.ToUpper()}: Não é possível visualizar o conteúdo!");
+            }
+        } else
         {
-            Console.WriteLine($"Playlist {visibilidade.ToUpper()}: Não é possível visualizar o conteúdo!");
+            Console.WriteLine($"A Playlist {Nome} está vazia!");
         }
         
     }

@@ -1,4 +1,13 @@
-﻿Banda SilkSonic = new Banda("Silk Sonic");
+﻿
+
+/*
+ * Comentei o código abaixo só para fazer o desafio de criar as classes Podcast e Episodios
+ * sem misturar as coisas. Os códigos estão muito desorganizados, depois tenho que organizar e juntar 
+ * os códigos desta Solução com os arquivos da solução onde fiz o início do projeto ScreenSound, que está
+ * na pasta de Exercicios 01
+ * 
+
+Banda SilkSonic = new Banda("Silk Sonic");
 
 Album anEveningWithSilkSonic = new Album("An Evening With Silk Sonic");
 
@@ -68,3 +77,24 @@ playlist1.ExibirPlaylist();
 //musica1.ExibirMusicaEArtista();
 //Console.WriteLine();
 //musica2.ExibirMusicaEArtista();
+
+*/
+
+//Podcast podcast1 = new Podcast("Estrelas da Música", "Fábio Corrêa");
+Episodio ep1 = new Episodio(2, "Top5 hits do Nordeste", 60);
+ep1.AdicionarConvidados("Bento Corrêa");
+ep1.AdicionarConvidados("Guido");
+
+Episodio ep2 = new Episodio(3, "Evolução da Harmonia", 90);
+ep2.AdicionarConvidados("Fábio");
+ep2.AdicionarConvidados("Ramon");
+
+Episodio ep3 = new Episodio(1, "A criação do repertório", 45);
+ep3.AdicionarConvidados("César");
+ep3.AdicionarConvidados("Vinícius");
+
+Podcast podcast = new("Aprofundando na Música", "Fábio Corrêa");
+podcast.AdicionarEpisodio(ep1);
+podcast.AdicionarEpisodio(ep2);
+podcast.AdicionarEpisodio(ep3);
+podcast.ExibirDetalhes();
