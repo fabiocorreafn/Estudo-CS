@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9E6C1689-07D4-4FD2-B349-9567FD06E571}|Exercicios03\\AluraFilmes.csproj|solutionrelative:exercicios03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E6C1689-07D4-4FD2-B349-9567FD06E571}|Exercicios03\\AluraFilmes.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\exercicios03\\exercicios03\\filmes\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E6C1689-07D4-4FD2-B349-9567FD06E571}|Exercicios03\\AluraFilmes.csproj|solutionrelative:exercicios03\\filmes\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E6C1689-07D4-4FD2-B349-9567FD06E571}|Exercicios03\\AluraFilmes.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\exercicios03\\exercicios03\\filmes\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E6C1689-07D4-4FD2-B349-9567FD06E571}|Exercicios03\\AluraFilmes.csproj|solutionrelative:exercicios03\\filmes\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6C1689-07D4-4FD2-B349-9567FD06E571}|Exercicios03\\AluraFilmes.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\exercicios03\\exercicios03\\filmes\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6C1689-07D4-4FD2-B349-9567FD06E571}|Exercicios03\\AluraFilmes.csproj|solutionrelative:exercicios03\\filmes\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Artista.cs",
               "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\Exercicios03\\Exercicios03\\Filmes\\Artista.cs",
               "RelativeDocumentMoniker": "Exercicios03\\Filmes\\Artista.cs",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Filme.cs",
               "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\Exercicios03\\Exercicios03\\Filmes\\Filme.cs",
               "RelativeDocumentMoniker": "Exercicios03\\Filmes\\Filme.cs",
               "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\Exercicios03\\Exercicios03\\Filmes\\Filme.cs",
               "RelativeToolTip": "Exercicios03\\Filmes\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAzwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T07:32:33.255Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Exercicios03\\Program.cs",
               "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\Exercicios03\\Exercicios03\\Program.cs",
               "RelativeToolTip": "Exercicios03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T19:28:15.334Z",
               "EditorCaption": ""

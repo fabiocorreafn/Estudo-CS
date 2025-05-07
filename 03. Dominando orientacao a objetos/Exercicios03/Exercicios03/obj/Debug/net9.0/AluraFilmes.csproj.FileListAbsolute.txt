@@ -1,0 +1,15 @@
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\bin\Debug\net9.0\AluraFilmes.exe
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\bin\Debug\net9.0\AluraFilmes.deps.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\bin\Debug\net9.0\AluraFilmes.runtimeconfig.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\bin\Debug\net9.0\AluraFilmes.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\bin\Debug\net9.0\AluraFilmes.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\obj\Debug\net9.0\AluraFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\obj\Debug\net9.0\AluraFilmes.AssemblyInfoInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\obj\Debug\net9.0\AluraFilmes.AssemblyInfo.cs
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\obj\Debug\net9.0\AluraFilmes.csproj.CoreCompileInputs.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\obj\Debug\net9.0\AluraFilmes.sourcelink.json
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\obj\Debug\net9.0\AluraFilmes.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\obj\Debug\net9.0\refint\AluraFilmes.dll
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\obj\Debug\net9.0\AluraFilmes.pdb
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\obj\Debug\net9.0\AluraFilmes.genruntimeconfig.cache
+C:\Users\coruj\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\Exercicios03\Exercicios03\obj\Debug\net9.0\ref\AluraFilmes.dll
