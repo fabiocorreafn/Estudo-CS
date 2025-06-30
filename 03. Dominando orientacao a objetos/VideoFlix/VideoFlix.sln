@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoFlix", "Exercicios03_VideoFlix\VideoFlix.csproj", "{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B441547-6A30-4CD5-B107-B0F6F191C300}
+	EndGlobalSection
+EndGlobal

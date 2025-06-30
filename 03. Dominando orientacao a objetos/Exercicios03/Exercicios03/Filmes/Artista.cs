@@ -1,4 +1,5 @@
-﻿using System.Security;
+﻿namespace AluraFilmes.Filmes;
+using System.Security;
 
 class Artista
 {
@@ -15,6 +16,23 @@ class Artista
     public void AdiconarFilmeDoArtista(Filme titulo)
     {
         filmesDoArtista.Add(titulo);
-        //titulo.RegistrarElenco(Nome);
+    }
+
+    public void MostrarInformacoesDoArtista()
+    {
+        Console.WriteLine($"Artista: {Nome}");
+        Console.WriteLine("Filmes que participou:");
+        if (filmesDoArtista.Count == 0)
+        {
+            Console.WriteLine($"Não foi encontrado nenhum filme com a participação de {Nome}.");
+        }
+        else
+        {
+            foreach (var f in filmesDoArtista)
+            {
+                Console.WriteLine($" - {f.Titulo}");
+            }
+        }
+        Console.WriteLine();
     }
 }

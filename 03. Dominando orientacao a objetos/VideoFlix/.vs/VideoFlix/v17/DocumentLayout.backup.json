@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\VideoFlix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}|Exercicios03_VideoFlix\\VideoFlix.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\videoflix\\exercicios03_videoflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}|Exercicios03_VideoFlix\\VideoFlix.csproj|solutionrelative:exercicios03_videoflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}|Exercicios03_VideoFlix\\VideoFlix.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\videoflix\\exercicios03_videoflix\\plataformab\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}|Exercicios03_VideoFlix\\VideoFlix.csproj|solutionrelative:exercicios03_videoflix\\plataformab\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}|Exercicios03_VideoFlix\\VideoFlix.csproj|c:\\users\\coruj\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\videoflix\\exercicios03_videoflix\\plataformaa\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5C11A6-6359-47CE-9AE7-602A8A5630B0}|Exercicios03_VideoFlix\\VideoFlix.csproj|solutionrelative:exercicios03_videoflix\\plataformaa\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\VideoFlix\\Exercicios03_VideoFlix\\PlataformaB\\Video.cs",
+              "RelativeDocumentMoniker": "Exercicios03_VideoFlix\\PlataformaB\\Video.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\VideoFlix\\Exercicios03_VideoFlix\\PlataformaB\\Video.cs",
+              "RelativeToolTip": "Exercicios03_VideoFlix\\PlataformaB\\Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:18:44.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\VideoFlix\\Exercicios03_VideoFlix\\PlataformaA\\Video.cs",
+              "RelativeDocumentMoniker": "Exercicios03_VideoFlix\\PlataformaA\\Video.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\VideoFlix\\Exercicios03_VideoFlix\\PlataformaA\\Video.cs",
+              "RelativeToolTip": "Exercicios03_VideoFlix\\PlataformaA\\Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:18:04.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\VideoFlix\\Exercicios03_VideoFlix\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios03_VideoFlix\\Program.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\VideoFlix\\Exercicios03_VideoFlix\\Program.cs",
+              "RelativeToolTip": "Exercicios03_VideoFlix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:17:06.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
-﻿class Filme
+﻿namespace AluraFilmes.Filmes;
+class Filme
 {
     public string Titulo { get; set; }
     public int Duracao { get; set; }
@@ -13,15 +14,26 @@
     public void RegistrarElenco(Artista nome)
     {
         Elenco.Add(nome);
+        nome.AdiconarFilmeDoArtista(this);
+        
     }
 
-    public void MostrarInformacoes()
+    public void MostrarInformacoesDoFilme()
     {
         Console.WriteLine($"Filme: {Titulo} / Duração: {Duracao} minutos");
-        Console.WriteLine("Elenco:\n");
-        foreach (var e in Elenco)
+        Console.WriteLine("Elenco:");
+        if (Elenco.Count == 0)
         {
-            Console.WriteLine($" - {e.Nome}");
+            Console.WriteLine(" - Não foram encontrados artistas no Elenco. -\n");
+        }
+        else
+        {
+            foreach (var e in Elenco)
+            {
+                Console.WriteLine($" - {e.Nome}");
+            }
+            Console.WriteLine();
         }
     }
+
 }
