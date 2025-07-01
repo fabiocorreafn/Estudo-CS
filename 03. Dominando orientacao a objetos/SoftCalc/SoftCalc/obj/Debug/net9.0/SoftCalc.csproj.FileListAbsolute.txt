@@ -1,0 +1,23 @@
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.AssemblyInfoInputs.cache
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.AssemblyInfo.cs
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.sourcelink.json
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\refint\SoftCalc.dll
+G:\Meu Drive\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.pdb
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\bin\Debug\net9.0\SoftCalc.exe
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\bin\Debug\net9.0\SoftCalc.deps.json
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\bin\Debug\net9.0\SoftCalc.runtimeconfig.json
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\bin\Debug\net9.0\SoftCalc.dll
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\bin\Debug\net9.0\SoftCalc.pdb
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.AssemblyInfoInputs.cache
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.AssemblyInfo.cs
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.sourcelink.json
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.dll
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\refint\SoftCalc.dll
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.pdb
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\SoftCalc.genruntimeconfig.cache
+C:\Users\Fabio\Meu Drive (fabiocorreafn@gmail.com)\Fabio Correa\MEUS CURSOS\Alura\Estudo-CS\03. Dominando orientacao a objetos\SoftCalc\SoftCalc\obj\Debug\net9.0\ref\SoftCalc.dll

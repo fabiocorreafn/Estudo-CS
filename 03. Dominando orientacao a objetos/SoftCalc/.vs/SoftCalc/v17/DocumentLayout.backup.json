@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabio\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\SoftCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{698013E9-1E1B-409E-8F88-32404169932F}|SoftCalc\\SoftCalc.csproj|c:\\users\\fabio\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\softcalc\\softcalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698013E9-1E1B-409E-8F88-32404169932F}|SoftCalc\\SoftCalc.csproj|solutionrelative:softcalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698013E9-1E1B-409E-8F88-32404169932F}|SoftCalc\\SoftCalc.csproj|c:\\users\\fabio\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\softcalc\\softcalc\\formasgeometricas\\formatriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698013E9-1E1B-409E-8F88-32404169932F}|SoftCalc\\SoftCalc.csproj|solutionrelative:softcalc\\formasgeometricas\\formatriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698013E9-1E1B-409E-8F88-32404169932F}|SoftCalc\\SoftCalc.csproj|c:\\users\\fabio\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\softcalc\\softcalc\\formasgeometricas\\formacirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698013E9-1E1B-409E-8F88-32404169932F}|SoftCalc\\SoftCalc.csproj|solutionrelative:softcalc\\formasgeometricas\\formacirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698013E9-1E1B-409E-8F88-32404169932F}|SoftCalc\\SoftCalc.csproj|c:\\users\\fabio\\meu drive (fabiocorreafn@gmail.com)\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\softcalc\\softcalc\\formasgeometricas\\formaquadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698013E9-1E1B-409E-8F88-32404169932F}|SoftCalc\\SoftCalc.csproj|solutionrelative:softcalc\\formasgeometricas\\formaquadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormaTriangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\SoftCalc\\SoftCalc\\FormasGeometricas\\FormaTriangulo.cs",
+              "RelativeDocumentMoniker": "SoftCalc\\FormasGeometricas\\FormaTriangulo.cs",
+              "ToolTip": "C:\\Users\\Fabio\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\SoftCalc\\SoftCalc\\FormasGeometricas\\FormaTriangulo.cs",
+              "RelativeToolTip": "SoftCalc\\FormasGeometricas\\FormaTriangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:12:11.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormaCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\SoftCalc\\SoftCalc\\FormasGeometricas\\FormaCirculo.cs",
+              "RelativeDocumentMoniker": "SoftCalc\\FormasGeometricas\\FormaCirculo.cs",
+              "ToolTip": "C:\\Users\\Fabio\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\SoftCalc\\SoftCalc\\FormasGeometricas\\FormaCirculo.cs",
+              "RelativeToolTip": "SoftCalc\\FormasGeometricas\\FormaCirculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:11:58.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormaQuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\SoftCalc\\SoftCalc\\FormasGeometricas\\FormaQuadrado.cs",
+              "RelativeDocumentMoniker": "SoftCalc\\FormasGeometricas\\FormaQuadrado.cs",
+              "ToolTip": "C:\\Users\\Fabio\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\SoftCalc\\SoftCalc\\FormasGeometricas\\FormaQuadrado.cs",
+              "RelativeToolTip": "SoftCalc\\FormasGeometricas\\FormaQuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:11:44.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\SoftCalc\\SoftCalc\\Program.cs",
+              "RelativeDocumentMoniker": "SoftCalc\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio\\Meu Drive (fabiocorreafn@gmail.com)\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\SoftCalc\\SoftCalc\\Program.cs",
+              "RelativeToolTip": "SoftCalc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:10:25.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
