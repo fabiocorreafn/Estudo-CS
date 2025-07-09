@@ -1,7 +1,10 @@
-﻿namespace ScreenSound.Modelos;
-internal class Album
+﻿using System.Reflection.Metadata.Ecma335;
+
+namespace ScreenSound.Modelos;
+internal class Album : IAvaliavel
 {
     public static int ContadorDeObjetos = 0;
+    private List<Avaliacao> notas = new();
 
     private List<Musica> musicas = new List<Musica>();
 
@@ -15,9 +18,30 @@ internal class Album
     public int DuracaoTotal => musicas.Sum(m => m.Duracao);
     public List<Musica> Musicas => musicas;
 
+    public double Media 
+    {
+        get
+        {
+            if (notas.Count == 0)
+            {
+                Console.WriteLine("Não existem notas para este Álbum");
+                return 0;
+            }
+            else 
+            {
+                return notas.Average(a => a.Nota);
+            }
+        }
+    }
+
     public void AdicionarMusica(Musica musica)
     {
         musicas.Add(musica);
+    }
+
+    public void AdicionarNota(Avaliacao nota)
+    {
+        notas.Add(nota);
     }
 
     public void ExibirMusicasDoAlbum()

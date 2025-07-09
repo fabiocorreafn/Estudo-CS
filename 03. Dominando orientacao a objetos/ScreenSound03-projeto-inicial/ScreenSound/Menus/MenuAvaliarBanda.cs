@@ -20,8 +20,9 @@ internal class MenuAvaliarBanda : Menu
             //um novo objeto do tipo Avaliacao com o parâmetro Nota já como sendo inteiro, e este valor inteiro está sendo armazenado
             //dentro do objeto nota. É basicamente uma conversão de string para inteiro de forma personalizada, ou seja, posso usar o Parse 
             //através de uma classe que eu criei.
-            int notaRegistrada = banda.AdicionarNota(nota);
-            Console.WriteLine($"\nA nota {notaRegistrada} foi registrada com sucesso para a banda {nomeDaBanda}");
+            //int notaRegistrada = banda.AdicionarNota(nota); -> APAGAR
+            banda.AdicionarNota(nota);
+            Console.WriteLine($"\nA nota {nota.Nota} foi registrada com sucesso para a banda {nomeDaBanda}");
             //Aqui eu quero que apareça na tela a nota "corrigida", ou seja, se foi digitado um valor maior que 10
             //que apareça 10, e se for menor que 0, que apareça 0. Quando faço "int notaRegistrada = banda.AdicionarNota(nota);"
             //estou chamando o método AdicionarNota passando o valor digitado (nota) mesmo que fora dos limites. Lá no método AdiconarNora
