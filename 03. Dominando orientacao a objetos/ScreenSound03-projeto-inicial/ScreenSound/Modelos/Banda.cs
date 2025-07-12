@@ -15,8 +15,8 @@ internal class Banda : IAvaliavel
         {
             if (notas.Count == 0)
             {
-                Console.WriteLine("\nNão existem notas para esta banda.");
-                return 0;
+                //Console.WriteLine("\nNão existem notas para esta banda.");
+                return -1;
             }
             else
             {

@@ -14,12 +14,37 @@ internal class MenuExibirDetalhes : Menu
         string nomeDaBanda = Console.ReadLine()!;
         if (bandasRegistradas.ContainsKey(nomeDaBanda))
         {
+            /* Dentro do bloco IF abaixo vou verificar se a BANDA já foi avaliada alguma vez, ou seja, se existe pelo menos uma nota para a banda.
+             * Se não existir notas na banda, vai exibir: NÃO EXISTEM NOTAS PARA A BANDA "XYZ"
+             * Se só houver notas 0, vai exibir: A MÉDIA DA BANDA "XYX" É 0.
+             * Isso é porque considero que a ausência de notas é diferente de só existirem notas 0
+             */
             Banda banda = bandasRegistradas[nomeDaBanda];
-            Console.WriteLine($"\nA média da banda {nomeDaBanda} é {banda.Media}.");
+            if (banda.Media == -1)
+            {
+                Console.WriteLine($"\nNão existem notas para a Banda {nomeDaBanda}.");
+            }
+            else
+            {
+                Console.WriteLine($"\nA média da banda {nomeDaBanda} é {banda.Media}.");
+            }
+
             Console.WriteLine("\nDiscografia:");
             foreach (Album album in banda.Albuns)
             {
-                Console.WriteLine($"{album.Nome} -> {album.Media}");
+                 /* Dentro do bloco IF abaixo vou verificar se o ÁLBUM já foi avaliado alguma vez, ou seja, se existe pelo menos uma nota para ele.
+                  * Se não existir notas no álbum, vai exibir: NOME DO ALBUM -> NÃO EXITEM NOTAS PARA ESTE ÁLBUM
+                  * Se só houver notas 0, vai exibir NOME DO ALBUM -> 0
+                  * Isso é porque considero que a ausência de notas é diferente de só existirem notas 0
+                  */
+                if (album.Media == -1)
+                {
+                    Console.WriteLine($"{album.Nome} -> Não existem notas para este Álbum");
+                }
+                else
+                {
+                    Console.WriteLine($"{album.Nome} -> {album.Media}");
+                }
             }
             Console.Write("\nDigite uma tecla para votar ao menu principal...");
             Console.ReadKey();
@@ -35,9 +60,3 @@ internal class MenuExibirDetalhes : Menu
     }
 }
 
-/* Continuar...
- * Quero que:
- *  se não existir notas no álbum, apareça NOME DO ALBUM -> NÃO EXITEM NOTAS PARA ESTE ÁLBUM
- *  se só houver notas 0, que exiba NOME DO ALBUM -> 0
- *  Isso porque a ausência de notas é diferente de só existirem notas 0
- *  

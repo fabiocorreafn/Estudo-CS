@@ -24,8 +24,7 @@ internal class Album : IAvaliavel
         {
             if (notas.Count == 0)
             {
-                Console.WriteLine("Não existem notas para este Álbum");
-                return 0;
+                return -1;
             }
             else 
             {
