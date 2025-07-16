@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coruj\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\Estudo da classe object\\Estudo da classe Object\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3691D15B-67EF-4B8C-9E8E-BCD22C2EA24E}|Estudo da classe Object\\Estudo da classe Object.csproj|c:\\users\\coruj\\meu drive\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\estudo da classe object\\estudo da classe object\\estudo da classe object\\classes\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3691D15B-67EF-4B8C-9E8E-BCD22C2EA24E}|Estudo da classe Object\\Estudo da classe Object.csproj|solutionrelative:estudo da classe object\\classes\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3691D15B-67EF-4B8C-9E8E-BCD22C2EA24E}|Estudo da classe Object\\Estudo da classe Object.csproj|c:\\users\\coruj\\meu drive\\fabio correa\\meus cursos\\alura\\estudo-cs\\03. dominando orientacao a objetos\\estudo da classe object\\estudo da classe object\\estudo da classe object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3691D15B-67EF-4B8C-9E8E-BCD22C2EA24E}|Estudo da classe Object\\Estudo da classe Object.csproj|solutionrelative:estudo da classe object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\Estudo da classe object\\Estudo da classe Object\\Estudo da classe Object\\Classes\\Carro.cs",
+              "RelativeDocumentMoniker": "Estudo da classe Object\\Classes\\Carro.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\Estudo da classe object\\Estudo da classe Object\\Estudo da classe Object\\Classes\\Carro.cs",
+              "RelativeToolTip": "Estudo da classe Object\\Classes\\Carro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:33:13.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coruj\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\Estudo da classe object\\Estudo da classe Object\\Estudo da classe Object\\Program.cs",
+              "RelativeDocumentMoniker": "Estudo da classe Object\\Program.cs",
+              "ToolTip": "C:\\Users\\coruj\\Meu Drive\\Fabio Correa\\MEUS CURSOS\\Alura\\Estudo-CS\\03. Dominando orientacao a objetos\\Estudo da classe object\\Estudo da classe Object\\Estudo da classe Object\\Program.cs",
+              "RelativeToolTip": "Estudo da classe Object\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:31:24.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
